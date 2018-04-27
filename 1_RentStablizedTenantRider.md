@@ -1,4 +1,4 @@
-1 RENT STABLIZED TENANTS RIDER
+**1 RENT STABLIZED TENANTS RIDER**
 A Rent-stabilized rider should appear on the initial lease and all subsequent lease renewals. This rider outlines the tenant’s rights and how the new rent has been calculated.
 
 Rent-Stabilized Rider
