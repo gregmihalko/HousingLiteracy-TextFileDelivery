@@ -3,19 +3,19 @@ In the late summer of 2017, Mayor Bill de Blasio signed into law Intro 214, whic
 
 How this will all work is still being figured out. Both of the following organizations have a bit more information on this.
 
-> [Housing Court Answers](http://housingcourtanswers.org/support-the-right-to-counsel-movement-in-new-york-city/)
+- [Housing Court Answers](http://housingcourtanswers.org/support-the-right-to-counsel-movement-in-new-york-city/)
 
-> [Right to Counsel Coalition](http://www.righttocounselnyc.org/about)
+- [Right to Counsel Coalition](http://www.righttocounselnyc.org/about)
 
  
 Here are some links for more information about places to look for legal assistance:
 
->[Rent Guidelines Board](http://www.nycrgb.org/html/resources/legal2.html) 
+- [Rent Guidelines Board](http://www.nycrgb.org/html/resources/legal2.html) 
 
->\[The Legal Aid Society](http://www.legal-aid.org/en/ineedhelp/ineedhelp/civilproblem/housingpractice.aspx)
+- [The Legal Aid Society](http://www.legal-aid.org/en/ineedhelp/ineedhelp/civilproblem/housingpractice.aspx)
 
->\[Legal Services NYC](http://www.legalservicesnyc.org/about-us/get-help)
+- [Legal Services NYC](http://www.legalservicesnyc.org/about-us/get-help)
 
->\[New York Legal Assistance Group](https://nylag.org/get-help)
+- [New York Legal Assistance Group](https://nylag.org/get-help)
 
 

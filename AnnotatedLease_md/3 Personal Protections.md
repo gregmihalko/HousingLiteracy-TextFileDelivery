@@ -9,11 +9,11 @@ Tenants have a right to privacy in their apartments. However, under certain cond
 
 **The Right to Freedom from Harassment and Retaliation.**
 
-*Harassment.* Landlords cannot harass tenants who exercise their rights. Harassment can take many forms: 
+_Harassment._ Landlords cannot harass tenants who exercise their rights. Harassment can take many forms: 
 
 >physical or verbal abuse, denial of services, or multiple instances of nonsensical litigation. If a landlord lies or deliberately misrepresents the law to a tenant, this may also constitute harassment. Tenants who have been the subject of harassment should contact the Division of Housing and Community Renewal. Landlords found guilty of harassment are potentially subject to fines. 
 
-*Retaliation.* Landlords cannot retaliate against tenants who exercise their rights. Some examples of retaliation might include:
+__Retaliation._ Landlords cannot retaliate against tenants who exercise their rights. Some examples of retaliation might include:
 
 >  a landlord trying to evict a tenant who is a part of a tenant’s rights organization or who has filed legitimate complaints against the landlord. Another common example** is shutting off utilities are hot water, even though doing so is illegal. If a tenant suspects they are the victim of retaliation, they may be able to collect monetary damages from the landlord and should consult a lawyer. 
 
@@ -25,7 +25,7 @@ Tenants are protected from various types of discrimination by potential landlord
 
 Further, landlords cannot refuse to rent to someone based on the source of their income. This means that a landlord cannot refuse to rent to you because you receive social security or any sort of local, state, or federal aid, like food stamps or section 8 housing vouchers. 
 
-> **If you feel harassed or have an issue with any of these matters, you should call 311 to lodge a complaint. You can also contact the NYC Commission on Human Rights (NYC HCR) or the DRA or the ADA Coordinator below.**
+### If you feel harassed or have an issue with any of these matters, you should call 311 to lodge a complaint. You can also contact the NYC Commission on Human Rights (NYC HCR) or the DRA or the ADA Coordinator below.
 
 [NYC Commission on Human Rights (NYC HCR)](https://www1.nyc.gov/site/cchr/about/contact-us.page)
 
