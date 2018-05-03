@@ -1,4 +1,4 @@
-#10 (1) Expiration of J-51 or 421-a Tax Abatements
+# 10 (1) Expiration of J-51 or 421-a Tax Abatements
 
 (1) Expiration of J-51 or 421-a Tax Abatements and Exemptions. In exchange for applying rent regulation benefits to their building or some of its units, the city offers tax abatements to landlords that reduce the amount of property tax they have to pay, and tax exemptions that serve as credits for taxes that are to be paid. There are two types of tax abatements/exemptions that landlords can receive if they apply for them, J-51 or 421-a. J-51 applies to either fully rehabilitated or converted units, while 421-a applies to only newly constructed units.
 
