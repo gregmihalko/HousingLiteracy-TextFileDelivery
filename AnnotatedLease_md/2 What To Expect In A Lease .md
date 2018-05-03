@@ -14,6 +14,7 @@ With some exceptions (see below), landlords may rent to someone on any terms as 
 Also, any changes made to the lease should be initialed by both parties.  
 
 **Illegal Provisions** 
+
 There are certain sections that are not legally binding or enforceable, even if agreed on by both parties. So, if a landlord includes them in the lease, they aren’t enforceable. Some examples include: 
 
 1.	Any language that waves a tenant's right to a jury trial in a lawsuit brought by either them or the landlord regarding personal injury or property damage. If either party sues the other for property damage or personal injury, each have the right to request a trial by jury. The one section commonly seen in the lease waves the right to a jury trial regarding any legal action concerned the terms of the lease.

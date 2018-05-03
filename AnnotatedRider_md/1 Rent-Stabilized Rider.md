@@ -2,6 +2,7 @@
 *A rent-stabilized rider should appear on the initial lease and all subsequent lease renewals. This rider outlines the tenant’s rights and how the new rent has been calculated.*
 
 **Rent-Stabilized Rider**
+
 The rent stabilized rider should include:
 - The name of the tenant as well as the address of the unit
 - The signature of the tenant and owner 
