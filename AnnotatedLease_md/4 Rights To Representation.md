@@ -12,10 +12,10 @@ Here are some links for more information about places to look for legal assistan
 
 >[Rent Guidelines Board](http://www.nycrgb.org/html/resources/legal2.html) 
 
->[The Legal Aid Society](http://www.legal-aid.org/en/ineedhelp/ineedhelp/civilproblem/housingpractice.aspx)
+>\[The Legal Aid Society](http://www.legal-aid.org/en/ineedhelp/ineedhelp/civilproblem/housingpractice.aspx)
 
->[Legal Services NYC](http://www.legalservicesnyc.org/about-us/get-help)
+>\[Legal Services NYC](http://www.legalservicesnyc.org/about-us/get-help)
 
->[New York Legal Assistance Group](https://nylag.org/get-help)
+>\[New York Legal Assistance Group](https://nylag.org/get-help)
 
 
