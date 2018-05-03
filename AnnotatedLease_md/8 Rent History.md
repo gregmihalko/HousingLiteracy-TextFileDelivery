@@ -6,15 +6,10 @@ As a rent stabilized tenant, you are entitled to know your rent history. You can
 3.	visiting your Borough or district office in person
 4.	requesting your records via mail
 
-The Tenant Protection Unit’s website outlines how to access these records and what you will need to do so. Filling out the online contact form is the easiest method. 
+The [Tenant Protection Unit's](http://www.nyshcr.org/rent/tenantresources.htm) website outlines how to access these records and what you will need to do so. Filling out the online contact form is the easiest method. 
 
-[Tenant Protection Unit](http://www.nyshcr.org/rent/tenantresources.htm)
+You can also use the [Am I Rent Stabilized?](https://amirentstabilized.com) website to see if your building has been listed as having filed records about rent regulation in the years since 1984. This method, however, is less reliable and only lists the building, not the unit that is under rent regulation. It is important to remember that not every unit in a building is necessarily rent-regulated. 
 
-[Online Contact Form](https://portal.hcr.ny.gov/app/ask)
-
-You can also use the Am I Rent Stabilized website to see if your building has been listed as having filed records about rent regulation in the years since 1984. This method, however, is less reliable and only lists the building, not the unit that is under rent regulation. It is important to remember that not every unit in a building is necessarily rent-regulated. 
-
-[Am I Rent Stabilized?](https://amirentstabilized.com)
 
 The Division of Housing and Community Renewal keeps a [list of all the buildings](http://www1.nyc.gov/site/rentguidelinesboard/resources/rent-stabilized-building-lists.page) that have registered in the past for the rent-stabilization program. However, they do very little to verify the accuracy of these registrations. Sot, it is possible that your building’s units are no longer on their list.
 
