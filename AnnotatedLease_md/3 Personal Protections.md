@@ -13,7 +13,7 @@ _Harassment._ Landlords cannot harass tenants who exercise their rights. Harassm
 
 >physical or verbal abuse, denial of services, or multiple instances of nonsensical litigation. If a landlord lies or deliberately misrepresents the law to a tenant, this may also constitute harassment. Tenants who have been the subject of harassment should contact the Division of Housing and Community Renewal. Landlords found guilty of harassment are potentially subject to fines. 
 
-__Retaliation._ Landlords cannot retaliate against tenants who exercise their rights. Some examples of retaliation might include:
+_Retaliation._ Landlords cannot retaliate against tenants who exercise their rights. Some examples of retaliation might include:
 
 >  a landlord trying to evict a tenant who is a part of a tenant’s rights organization or who has filed legitimate complaints against the landlord. Another common example** is shutting off utilities are hot water, even though doing so is illegal. If a tenant suspects they are the victim of retaliation, they may be able to collect monetary damages from the landlord and should consult a lawyer. 
 
