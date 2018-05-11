@@ -1,17 +1,13 @@
-#16 Preferential Rent Riders
-Item 5 lists the preferential rent and indicates whether there is a preferential rent rider attached. 
+# 16 Preferential Rent Riders
+_Item 5 lists the preferential rent and indicates whether there is a preferential rent rider attached._
 
-A preferential rent rider would be a document that clarifies a condition or a special arrangement to the rental lease. Preferential rent riders are not common, especially because it benefits the landlord when the tenant does not know they are paying a preferential rent. Since rent controls constrain how much landlords can charge for rents, the ability of landlords to legally charge more is useful if they are trying to force tenants out so they can add in vacancy bonuses to more quickly attain the deregulation rent threshold. This is a common technique in gentrifying neighborhoods where the sudden influx of residents able to pay higher rents incentivizes landlords to more quickly deregulate their apartments so they can charge market rates. 
+A **preferential rent** rider is a document attached to a lease that clarifies a condition or a special arrangement in which a tenant will pay a lower rent  than what can legally be charged. When there is a preferential rent rider attached to the lease, it will generally say that the preferential rent has been agreed upon by both parties for the **duration** of the tenancy of the individual tenant. This means that the preferential rent will be paid for the entire time a tenant lives in a unit, not just from lease to lease as the landlord chooses. 
 
-Here’s a good article on how preferential rents are used against tenants: 
-https://ny.curbed.com/2017/4/25/15425058/nyc-rent-stabilization-loophole-landlords
+> Tenants receiving a SCRIE (Senior Citizen Rent Increase Exemption) or DRIE (Disability Rent Increase Exemption) are among the most likely to have a preferential rent rider. 
 
-When there is a preferential rent rider attached to the lease, it will generally specify that the preferential rent has been agreed upon by both parties for the duration of the tenancy of the individual tenant. Tenants receiving a SCRIE (Senior Citizen Rent Increase Exemption) or DRIE (Disability Rent Increase Exemption) are among the most likely to have a preferential rent rider. 
+Preferential rent riders are not common, especially because it benefits the landlord when the tenant does not know they are paying a preferential rent. Since rent controls constrain how much landlords can charge for rents, the ability of landlords to legally charge more is useful if they are trying to force tenants out so they can add in vacancy bonuses to more quickly attain the deregulation rent threshold. This is a common technique in gentrifying neighborhoods where the sudden influx of residents able to pay higher rents incentivizes landlords to more quickly deregulate their apartments so they can charge market rates. 
 
-See the following two links for more information on preferential rents.
 
-Fact Sheet 40: Preferential Rents
-http://www.nyshcr.org/Rent/FactSheets/orafac40.pdf
+Here’s a [good article](https://ny.curbed.com/2017/4/25/15425058/nyc-rent-stabilization-loophole-landlords) on how preferential rents are used against tenants.
 
-Met Council on Preferential Rents
-http://metcouncilonhousing.org/help_and_answers/preferential_rents
+[Fact Sheet #40](http://www.nyshcr.org/Rent/FactSheets/orafac40.pdf) and the [Met Council](http://metcouncilonhousing.org/help_and_answers/preferential_rents) both have more information on preferential rents.
